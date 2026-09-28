@@ -1,0 +1,6 @@
+.box {
+    border: 2px solid azure;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 40px;
+}
